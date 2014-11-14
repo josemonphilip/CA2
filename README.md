@@ -1,3 +1,3 @@
 CA2
 ===
-This the part of CA2 usage of Vistual Studio and GitHub.
+This is the first part of CA2 :-usage of Vistual Studio and GitHub.
